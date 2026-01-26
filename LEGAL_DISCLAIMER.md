@@ -62,20 +62,20 @@ Using this software to manage CapCut installations **MAY** violate CapCut's Term
 
 ### 6. Licensing and Distribution
 
-#### Source Code (GPLv3)
-- The **source code** of CC Version Guard is licensed under GNU General Public License v3.0
-- You may study, modify, and distribute the source code under GPLv3 terms
-- See [LICENSE](LICENSE) for full GPLv3 text
+#### Source Code (Restricted)
+- The **source code** of CC Version Guard is "Source Available"
+- Permission is granted to view and modify for **Personal Use Only**
+- **Redistribution of source code is STRICTLY PROHIBITED**
+- See [LICENSE](LICENSE) for full terms
 
 #### Binary Distribution (Restricted)
 - **Pre-compiled binaries** (.exe, .msi) may ONLY be distributed by Zendevve (the author)
 - Unauthorized redistribution of compiled binaries is **strictly prohibited**
-- This restriction is permissible under GPLv3 as it does not restrict source code freedom
 
 #### Commercial Use
 - Zendevve reserves the right to sell pre-compiled binaries
 - Purchasing a binary does NOT grant redistribution rights
-- Users may compile from source for personal use under GPLv3
+- Users may compile from source for personal use only
 
 ### 7. No Warranty and Limitation of Liability
 
@@ -146,7 +146,7 @@ If any provision of this disclaimer is found unenforceable, the remaining provis
 3. ✅ **We don't crack anything** - purely file management
 4. ⚠️ **Use at your own risk** - may violate CapCut ToS
 5. ⚠️ **No guarantees** - could result in account issues
-6. 📜 **Source is free (GPLv3)** - binaries are restricted
+6. 📜 **Source is Available** - strict no-redistribution terms
 7. 💼 **We can sell binaries** - but you can build from source free
 
 ---
